@@ -2,7 +2,7 @@
 
 A fast, lightweight full-stack web application built to track job applications, monitor interview statuses, and manage the job hunt process. 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Frontend:** React.js, Vite, pure CSS
 * **Backend:** Node.js, Express.js REST API
 * **Database:** SQLite (via `better-sqlite3`)
